@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ÀõÔúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°¢ÞÜ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ãÒò¾þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íµ±Èÿÿÿÿÿ
+y
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¬Àáªøÿÿÿÿ
+O
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+C	java:S108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ–·Üþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¾£¥úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±óÀÊ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ý­—™þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(à¨¦á
+K
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
